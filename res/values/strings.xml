@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyMap</string>
+    <string name="action_settings">Settings</string>
+    <string name="emptyList">Non ci sono mappe nello storage interno.Premere il tasto <b>menu</b> e scegliere <b>Aggiungi Mappa</b> per aggiungerne una nuova.</string>
+    <string name="save">Salva</string>
+    <string name="cancel">Annulla</string>
+    <string name="map_name">Inserisci il nome della mappa</string>
+    <string name="alert_title">Cancella</string>
+    <string name="rename_title">Inserisci nome mappa</string>
+    <string name="alert_message">Questa mappa verrà cancellata</string>
+    <string name="alert_pos_button">OK</string>
+    <string name="correct_delete">Mappa eliminata correttamente</string>
+    <string  name="add_map">Aggiungi Mappa</string>
+    <string name="help">Aiuto</string>
+    <string name="help_dialog">Con questa applicazione è possibile georeferenziare immagini rappresentanti mappe di zone non troppo estese(un quartiere un parco ecc).
+        Cerca sulla mappa la tua posizione e selezionala cliccandoci sopra, puoi ingrandire l\'immagine per una maggiore precisione.
+        Una volta agganciato il gps clicca il tasto <b> menu</b> e poi <b>Aggiungi Coordinate</b>.Ripeti l\'operazione scegliendo il secondo punto 
+        abbastanza lontano dal primo spostandoti in diagonale sulla mappa. A questo punto puoi conoscere la tuaposizione attuale cliccando il tasto <b>menu</b> e poi <b>Mia Posizione</b>. 
+        Non è necessario assegnare i due punti nella stessa sessione. Se decidi di assegnarli separatamente, sulla mappa comparirà un pin per ricordarti la posizione del primo punto.        
+        Attenzione, l\' applicazione salva le immagini che selezioni all\' interno della cartell MyMap, se cancelli o sposti un\' immagine da questa cartella l\' applicazione 
+        non sarà più in grado di utilizzarla e sarà necessario ripetere l\'intera procedura dall\' inizio. </string>
+         
+    <string name="rename">Rinomina</string>
+    <string name="delete">Cancella</string>
+    <string name="no_signal">Coordinate gps momentaneamente non disponibili.</string>
+    <string name="assigned">Coordinate aggiunte con successo</string>
+    <string name="no_pin">Bisogna selezionare la propria posizione sulla mappa</string>
+    <string name="status_on">Gps abilitato</string>
+    <string name="status_off">Il Gps è disabilitato.Attivarlo ora?</string>
+    <string name="out_of_map">Sei uscito fuori dalla mappa</string>
+    <string name="name_warning">Una mappa con lo stesso nome è già presente nella memoria</string>
+    <string name="name_warning2">Non hai inserito il nome della mappa</string>
+</resources>
